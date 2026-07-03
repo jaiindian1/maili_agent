@@ -1,1 +1,10 @@
+# Google API Authentication Tokens (Keep out of GitHub)
+credentials.json
+token.json
 
+# Python environments, cache, and system files
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
