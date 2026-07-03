@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "Arvinder Singh",
+    "university": "Apex Technical University",
+    "email": "dean.tech@example.edu"
+  },
+  {
+    "name": "Elena Rostova",
+    "university": "Global Institute of Technology",
+    "email": "e.rostova@example.edu"
+  }
+]
